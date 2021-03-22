@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Caneta - 01/Caneta - 01.iml" filepath="$PROJECT_DIR$/Caneta - 01/Caneta - 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00 - Carro/00 - Carro.iml" filepath="$PROJECT_DIR$/00 - Carro/00 - Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 - Caneta/01 - Caneta.iml" filepath="$PROJECT_DIR$/01 - Caneta/01 - Caneta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Banco/02 - Banco.iml" filepath="$PROJECT_DIR$/02 - Banco/02 - Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - ControleRemoto/03 - ControleRemoto.iml" filepath="$PROJECT_DIR$/03 - ControleRemoto/03 - ControleRemoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - UEC/04 - UEC.iml" filepath="$PROJECT_DIR$/04 - UEC/04 - UEC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Pessoa&amp;Livro/05 - Pessoa&amp;Livro.iml" filepath="$PROJECT_DIR$/05 - Pessoa&amp;Livro/05 - Pessoa&amp;Livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Universidade/06 - Universidade.iml" filepath="$PROJECT_DIR$/06 - Universidade/06 - Universidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Universidade 2/07 - Universidade 2.iml" filepath="$PROJECT_DIR$/07 - Universidade 2/07 - Universidade 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Pessoa/Livro/05 - Pessoa/Livro.iml" filepath="$PROJECT_DIR$/05 - Pessoa/Livro/05 - Pessoa/Livro.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
     </modules>
   </component>
